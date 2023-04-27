@@ -5,7 +5,6 @@ int main(void)
     int h ;
     int b ;
     int x ;
-    int j ;
     printf("what's your age ?");
     scanf("%i",&h);
     printf("how about your hight and wight");
