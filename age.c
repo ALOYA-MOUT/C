@@ -10,5 +10,5 @@ int main(void)
     printf("how about your hight and wight");
     scanf("%i and %i", &b , &x);
     printf(" Your all good");
-    printf("your payment is %i " , b );
+    printf("  your payment is %i " , (b + x)/ h );
 }
